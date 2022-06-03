@@ -7,7 +7,7 @@ functionality as i converted the class components to functional components
 
 if you are on your way to learn the difference between functional components and class components
 this good project will help you alot to understand better as the documentation assuming you already 
-understand all these concepts.
+understand all these concepts...
 
 `Rending in React is extremely important to understand`
 `React will read the contructor class before rendering `
