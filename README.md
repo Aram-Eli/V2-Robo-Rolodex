@@ -19,9 +19,9 @@ understand all these concepts...
 In the project directory, you can run:
 
 ### To download the repository:
-### `Github URL`
-### `Run Git clone 'URL' that you copied`
-### `Run npm start`
+ `Github URL`
+ `Run Git clone 'URL' that you copied`
+ `Run npm start`
 
 
 
