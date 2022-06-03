@@ -3,7 +3,7 @@
 ## The idea of this project :
 
 V2 of the same Robo-Rolodex project I have created is the same UI and behavior but with different 
-functionality 
+functionality as i converted the class components to functional components
 
 `Rending in React is extremely important to understand`
 `React will read the contructor class before rendering `
